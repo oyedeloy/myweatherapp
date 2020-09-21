@@ -10,3 +10,8 @@ mvn clean package [ to compile, test and package the code ]
 mvn spring-boot:run -Dapp.weather.locations=Nigeria/Lagos,Nigeria/Kano [ to execute the code ]
 ```
 
+== Bugs
+
+```
+NY doesn't work: Over to dev to resolve
+```
